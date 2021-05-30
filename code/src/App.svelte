@@ -25,6 +25,7 @@
   <div id="content" bind:this={contentDiv}>
     <p class="unselectable"><span>笔记：WebGPU</span>（需要 Chrome / Edge 的 Canary 版本浏览器）</p>
     <p class="unselectable"><span>作品：ts-3dtiles</span></p>
+    <p class="unselectable"><span>作品：六大地图 Js 库与 Vue/React/Svelte 的 HelloWorld </span></p>
   </div>
 </div>
 
